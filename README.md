@@ -1,8 +1,10 @@
 <h1 align="center">E-Commerce Store 🛒</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+<img width="1726" height="773" alt="image" src="https://github.com/user-attachments/assets/31a177a3-34e5-4e74-9789-d0d45dde2267" />
+<img width="1333" height="780" alt="image" src="https://github.com/user-attachments/assets/7226eabf-0edb-4b7a-a8a9-be4cf0372fac" />
+<img width="1433" height="891" alt="image" src="https://github.com/user-attachments/assets/72f92987-c098-4cd2-ba20-68f12beb5004" />
 
-[Video Tutorial on Youtube](https://youtu.be/sX57TLIPNx8)
+
 
 About This Course:
 
